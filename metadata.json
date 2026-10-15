@@ -1,0 +1,10 @@
+{
+  "name": "NOVA AI Studio",
+  "description": "Next-Gen AI Companion & Universal AI Studio featuring conversational intelligence, 3D avatar companion, voice interaction, multimodal analysis, and a professional coding sandbox.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
